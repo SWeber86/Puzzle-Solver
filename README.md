@@ -1,4 +1,4 @@
-# Puzzle-Solver
+# Sudoku-Solver
 Brute Force Sudoku 9x9 Puzzles in Python
 # Sudoku Solver with Brute Force Visualization
 
